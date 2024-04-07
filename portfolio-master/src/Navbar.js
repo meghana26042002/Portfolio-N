@@ -14,7 +14,7 @@ const Nabvar=()=>
                 <div className='right'>
                     {/* <Link className="name"to='/Home'>Home</Link> */}
                     <Link className="name"to='/About'>About</Link>
-                    <Link className="name"to='/Skills'>Skill</Link>
+                    <Link className="name"to='/Skills'>Skills</Link>
                     <Link className="name"to='/Project'>Project</Link>
                     <Link className="name"to='/Contact'>Contact</Link>
                 </div> </div>
