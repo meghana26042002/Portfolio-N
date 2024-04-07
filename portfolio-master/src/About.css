@@ -1,0 +1,71 @@
+/* .back
+{
+        background-color:rgb(255, 0, 128);
+background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQcJGFr41RTHrZ-PSl4NyQtnz-WJFmUJoK8g&usqp=CAU');
+background-image:url('https://media.geeksforgeeks.org/wp-content/uploads/rk.png');
+        height: 100vh;
+    margin-top: -100px;
+    font-size: 50px;
+    background-size: cover;
+    background-repeat: no-repeat; 
+} */
+.m
+{
+    background-color: black;
+}
+
+.am
+{
+    font-size: 100px;
+    text-align:center;
+margin-top: 100px;
+margin-left: 20px;
+color: white;
+}
+.p1
+{
+    text-align:justify;
+    font-style: bold;
+    font-family: "times new roman";
+    font-size: 18px;
+    border-radius: 50px solid black;
+    justify-content: space-evenly;
+    margin-left: 50px;
+    font-weight: 700;
+    padding: 1%;
+    color: white;
+    }
+.git
+            {
+                color:white;
+                font-size: 50px;
+                font-family:"times new roman";
+                text-align: center;
+                margin-top: -5rem;
+                margin-left: 25px;
+                padding: 5px;
+            }
+            .icons
+            {
+                border: 10px solid black;
+                margin-left: 50%;
+                margin-right: 2%;
+                margin-top: -15%;
+                font-family: 'Times New Roman';
+                padding: 2px;
+                background-color: white;
+            }
+            .link
+            {
+                font-size: 25px;
+                
+            }
+            .github
+            {
+                font-size: 25px;
+            }
+            .email
+            {
+                font-size: 25px;
+                
+            }

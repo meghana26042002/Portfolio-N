@@ -1,0 +1,60 @@
+.abc
+{
+    background-color:black;
+/* background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQcJGFr41RTHrZ-PSl4NyQtnz-WJFmUJoK8g&usqp=CAU'); */
+/* background-image:url('https://media.geeksforgeeks.org/wp-content/uploads/rk.png'); */
+        height: 100vh;
+    margin-top: -7px;
+    font-size: 50px;
+    background-size: cover;
+    background-repeat: no-repeat; 
+
+}
+.main
+            {
+                display: flex;
+            
+            }
+        .s1
+        {
+            font-size: 100px;
+            font-family: "times new roman";
+            text-align: center;
+            margin-left: 100px;
+            color: white;
+        }
+        .s2
+        {
+            color:white;
+            font-size: 50px;
+            text-align: center;
+            font-family:"times new roman";
+            margin-left: 100px;
+
+        }
+        .d1
+        {
+            margin-top: 10px;
+            margin-left: 80px;
+            font-size: 30px;
+            font-weight: 700;
+        }
+        .d2
+        {
+            margin-left: 150px;
+            margin-top: -20px;
+            justify-content: space-evenly;
+            font-size:25px ;
+            color: white;
+            font-weight: 700;
+        }
+        .chart
+        {
+            margin-left: 550px;
+            border: 10px solid black;
+            border-radius: 10px solid black;
+            margin-right: 435px;
+            padding: 5px 5px 5px 5px;
+            box-shadow: 10px 10px 10px 10px;
+margin-top: -20px;
+        }
